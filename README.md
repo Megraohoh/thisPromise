@@ -15,6 +15,7 @@
 ```
 git clone https://github.com/Megraohoh/thisPromise
 cd thisPromise
+cd lib
 npm install http-server -g
 http-server -p 8080
 ```
